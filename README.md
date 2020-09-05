@@ -23,7 +23,7 @@ Windows系统
 镂空启动动画   
 ![启动动画](https://github.com/tp1415926535/TopTool/blob/master/%E7%AA%97%E9%A1%B6%20%E6%88%AA%E5%9B%BE/%E5%90%AF%E5%8A%A8%E5%8A%A8%E7%94%BB.png)   
    
-主窗体界面   
+主窗体界面（平时隐藏）   
 ![主窗体界面](https://github.com/tp1415926535/TopTool/blob/master/%E7%AA%97%E9%A1%B6%20%E6%88%AA%E5%9B%BE/%E4%B8%BB%E7%AA%97%E4%BD%9301.png)    
    
 托盘界面   
