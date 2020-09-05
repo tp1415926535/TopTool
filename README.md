@@ -1,5 +1,5 @@
 # 窗顶（TopTool）
-   ——纯粹小巧的窗体置顶工具   
+一款纯粹小巧的窗体置顶工具   
    
 下载链接：   
 选择1：标准包【[Github](https://github.com/tp1415926535/TopTool/raw/master/%E7%AA%97%E9%A1%B6.rar)/ [蓝奏云](https://wws.lanzous.com/inCTZgdoyda)】，文件大小<70kb，解压可用   
