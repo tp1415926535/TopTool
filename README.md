@@ -18,6 +18,8 @@ Windows系统
 ·开机自启可选   
 ·默认处于托盘状态   
    
+**截图展示**   
+   
 镂空启动动画   
 ![启动动画](https://github.com/tp1415926535/TopTool/blob/master/%E7%AA%97%E9%A1%B6%20%E6%88%AA%E5%9B%BE/%E5%90%AF%E5%8A%A8%E5%8A%A8%E7%94%BB.png)   
    
@@ -29,5 +31,6 @@ Windows系统
    
 托盘菜单   
 ![托盘菜单](https://github.com/tp1415926535/TopTool/blob/master/%E7%AA%97%E9%A1%B6%20%E6%88%AA%E5%9B%BE/%E6%89%98%E7%9B%9802.png)   
+    
     
 有建议和问题可以直接到本项目“Code”旁边的“Issues”页面内发表。
