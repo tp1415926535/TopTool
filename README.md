@@ -4,7 +4,7 @@
 下载链接：   
 选择1：标准包【[Github](https://github.com/tp1415926535/TopTool/raw/master/%E7%AA%97%E9%A1%B6.rar)/ [蓝奏云](https://wws.lanzous.com/iPiOAgdmhpi)】，文件大小<70kb，解压可用   
 选择2：单文件【[Github](https://github.com/tp1415926535/TopTool/raw/master/%E7%AA%97%E9%A1%B6%EF%BC%88TopTool%EF%BC%89.exe)/ [蓝奏云](https://wws.lanzous.com/iJw3dgdmjkf)】，文件大小<300kb，直接执行    
-选择3：安装包（懒得弄，运行环境整好就能运行上面两种选择了）
+选择3：安装包（懒得弄，只要.Net Framework运行环境整好，就能直接运行上面两种选择了）
    
 **方法**  
 运行程序后，先点击要获取的窗体，使其处于焦点激活状态，然后按下组合快捷键Ctrl+Shift+T，即可切换置顶/被置顶状态。
