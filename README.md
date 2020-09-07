@@ -23,7 +23,7 @@ Windows系统
 3.默认处于托盘状态   
 ![托盘界面](https://github.com/tp1415926535/TopTool/blob/master/%E7%AA%97%E9%A1%B6%20%E6%88%AA%E5%9B%BE/%E6%89%98%E7%9B%9801.png)   
    
-4.开机自启可选（需要以管理员身份运行，否则可能报错）   
+4.开机自启可选（为了防止报错，程序已默认以管理员权限启动）   
 ![托盘菜单](https://github.com/tp1415926535/TopTool/blob/master/%E7%AA%97%E9%A1%B6%20%E6%88%AA%E5%9B%BE/%E6%89%98%E7%9B%9802.png)   
     
     
