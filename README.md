@@ -16,7 +16,7 @@
 Windows系统
    
 **功能**  
-1.启动动画提示   
+1.镂空启动动画提示   
 ![启动动画](https://github.com/tp1415926535/TopTool/blob/master/%E7%AA%97%E9%A1%B6%20%E6%88%AA%E5%9B%BE/%E5%90%AF%E5%8A%A8%E5%8A%A8%E7%94%BB.png)   
    
 2.置顶/取消置顶窗口，处理后有浮窗提示   
