@@ -28,7 +28,7 @@ Windows系统
 4.拖拽按钮，使你仅用鼠标即可完成目标窗体状态的切换   
 ![拖拽按钮](https://github.com/tp1415926535/TopTool/blob/master/%E7%AA%97%E9%A1%B6%20%E6%88%AA%E5%9B%BE/%E6%8B%96%E6%8B%BD%E6%8C%89%E9%92%AE%E6%88%AA%E5%9B%BE.png)
    
-5.默认处于托盘状态   
+5.默认处于托盘状态，悬停图标会提示当前作用模式和快捷键   
 ![托盘界面](https://github.com/tp1415926535/TopTool/blob/master/%E7%AA%97%E9%A1%B6%20%E6%88%AA%E5%9B%BE/%E6%89%98%E7%9B%9801.png)   
    
 6.开机自启可选（为了防止权限不足报错，程序已经默认以管理员权限启动）   
