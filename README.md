@@ -22,7 +22,7 @@ Windows系统
 2.置顶/取消置顶窗口，处理后有浮窗提示   
 ![提示浮窗](https://github.com/tp1415926535/TopTool/blob/master/%E7%AA%97%E9%A1%B6%20%E6%88%AA%E5%9B%BE/%E6%8F%90%E7%A4%BA%E6%88%AA%E5%9B%BE.png)   
    
-3.可选择作用对象：当前焦点窗体/鼠标悬停窗体   
+3.可选择快捷键的作用对象：当前焦点窗体/鼠标悬停窗体   
 ![模式选择](https://github.com/tp1415926535/TopTool/blob/master/%E7%AA%97%E9%A1%B6%20%E6%88%AA%E5%9B%BE/%E6%A8%A1%E5%BC%8F%E9%80%89%E6%8B%A9%E6%88%AA%E5%9B%BE.png)
    
 4.拖拽按钮，使你仅用鼠标即可完成目标窗体状态的切换   
