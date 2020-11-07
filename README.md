@@ -7,9 +7,7 @@
    
 **下载链接**   
 - 
-　　选择1：标准包【[Github](https://github.com/tp1415926535/TopTool/raw/master/%E7%AA%97%E9%A1%B6.rar)/ [蓝奏云](https://wws.lanzous.com/iJybMgkdwyf)】，总文件大小仅80kb，解压可用   
-　　选择2：单文件【[Github](https://github.com/tp1415926535/TopTool/raw/master/%E7%AA%97%E9%A1%B6%EF%BC%88TopTool%EF%BC%89.exe)/ [蓝奏云](https://wws.lanzous.com/ipwfJgkdwxe)】，文件大小<300kb，直接执行    
-　　选择3：安装包（懒得弄，只要.Net Framework运行环境整好，就能直接运行上面两种选择了）
+　　标准包【[Github](https://github.com/tp1415926535/TopTool/raw/master/%E7%AA%97%E9%A1%B6v1.3.rar)/ [蓝奏云](https://wws.lanzous.com/ictWdi58mxg)】，总文件大小仅80kb，解压可用   
    
 **使用方法**  
 - 
@@ -40,8 +38,9 @@
     
 **历史更新**  
 -   
-　　2020/9/5，版本v1.0，快捷键置顶焦点窗体功能实现。   
-　　2020/9/8，版本v1.1，抛弃原有的列表实现方案，解决了窗体状态判定问题。   
+　　2020/11/7，版本v1.3，托盘菜单添加模式切换功能，优化主界面样式。   
 　　2020/9/12，版本v1.2，添加快捷键焦点/悬停模式的选择，添加拖拽按钮切换。   
+　　2020/9/8，版本v1.1，抛弃原有的列表实现方案，解决了窗体状态判定问题。   
+　　2020/9/5，版本v1.0，快捷键置顶焦点窗体功能实现。   
     
 有建议和问题可以直接到本项目“Code”旁边的“Issues”页面内发表。
